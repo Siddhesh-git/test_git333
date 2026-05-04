@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow only these files
+!*.sln
+!*.smproj
+!Model.bim
+
+# Keep gitignore itself
+!.gitignore
