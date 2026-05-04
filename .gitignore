@@ -1,10 +1,9 @@
 # Ignore everything
 *
 
-# Allow only these files
+# Keep only required files
 !*.sln
 !*.smproj
 !Model.bim
-
-# Keep gitignore itself
 !.gitignore
+
